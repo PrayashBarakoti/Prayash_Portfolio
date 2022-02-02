@@ -1,5 +1,6 @@
 # Prayash_Portfolio
 Example data analysis portfolio
 
-# SQL Queries
-• In my ISMG 3500 class taught by Professor Zhiping Walter, we wrote SQL commands to achieve the task that was presented to us.
+# Project 1: SQL Queries
+• In my ISMG 3500 class taught by Professor Zhiping Walter, we wrote SQL commands to accomplish the given task.
+• SQL was also used in order to create table and make changes to the table.
